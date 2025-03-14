@@ -6,4 +6,4 @@
   
   Calculate individual stock performance metrics
   
-  Portfolio Analysis
+  Portfolio Analysis & Optimazation
