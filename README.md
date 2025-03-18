@@ -1,4 +1,4 @@
-# Track the performance of your portfolio using Python!
+# Get the best performance of your portfolio using Python
 
   Data import from yahoo finance
   
